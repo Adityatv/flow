@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="Dubki" # Output Path (Same will be pushed in main also)
-input_url="https://yhills.chammii.workers.dev/0:/Dunki.2023.HINDI.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv" # Input direct file url
+input_url="https://yhills.chammii.workers.dev/0:/Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-KiNGKHAN.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
