@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="Dubki" # Output Path (Same will be pushed in main also)
-input_url="https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
+input_url="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
