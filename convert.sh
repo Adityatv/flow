@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="Dubki" # Output Path (Same will be pushed in main also)
-input_url="https://yhills.chammii.workers.dev/0:/Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-KiNGKHAN.mkv" # Input direct file url
-input_extension="mkv" # Extension of file url
+input_url="https://aaditya.netfy.app/aadi.mp4" # Input direct file url
+input_extension="mp4" # Extension of file url
 
 
 
